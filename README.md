@@ -6,7 +6,7 @@
 
 <h2 align="center">
 
-<img src="https://img.shields.io/badge/PoweredBy:kiplymacho-blue.svg"></h2>
+<img src="https://img.shields.io/badge/PoweredBy:kiplymacho-black.svg"></h2>
 
 </p> 
 
@@ -192,10 +192,10 @@ https://dash.cloudflare.com/profile/api-tokens
 
 - Kritik & Saran
 - [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-21%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
 # _Subscribe_
-- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-21%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
 
 # _Follow_
-- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-21%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
