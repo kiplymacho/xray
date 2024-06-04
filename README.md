@@ -13,8 +13,8 @@ kiplymacho
 
 </p> 
 
-# XRAY MANTAP
-- ***Script XRAY Multi Port 443/80 By SL***
+# xray
+- ***Script xray Multi Port 443/80 By SL***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
@@ -31,7 +31,7 @@ kiplymacho
 </div>
 #
 
-# FITUR XRAY TLS
+# FITUR xray TLS
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
 - SHADOWSOCKS WS   : **443**
@@ -41,7 +41,7 @@ kiplymacho
 - VLESS WS         : **443**
 - VLESS GRPC       : **443**
 
-# FITUR XRAY HTTP
+# FITUR xray HTTP
 - TROJAN WS        : **80**
 - TROJAN GRPC      : **80**
 - SHADOWSOCKS WS   : **80**
@@ -63,8 +63,9 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
 * untuk vps isp yg lain saya tidak tau, dan os yg lain juga saya tidak tau wkwk
 
 # Syarat && Bahan Untuk Menggunakan Script Ini
-- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
-https://sfile.mobi/1Pk3b69xugs7
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
+👉[termux](https://sfile.mobi/1Pk3b69xugs7)
+
 - Wajib Punya VPS
 - Wajib Punya Akun Cloudflare
 - Wajib Punya Domain Punya Kamu Sendiri
@@ -204,12 +205,3 @@ https://dash.cloudflare.com/profile/api-tokens
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-# Jangan Lupa Follow
-
-<p align="center">
-
-  &nbsp;</p><p align="center">Youtube</p><p align="center"><span style="text-align: left;">👇👇</span></p>
-
-  <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.youtube.com/@km7ujuh">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👇👇&nbsp;</p>
-
-   <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.instagram.com/kiplymacho">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p></p>
