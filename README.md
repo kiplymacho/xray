@@ -8,8 +8,6 @@
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy-gold.svg?style=flat)]
 
-</p> 
-
 # xray
 - ***Script xray Multi Port 443/80 By SL***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
