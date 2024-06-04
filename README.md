@@ -6,7 +6,7 @@
 
 <h2 align="center">
 
-[![Powered By](https://img.shields.io/badge/PoweredBy-gay.svg?style=flat)]
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy-gold.svg?style=flat)]
 
 </p> 
 
