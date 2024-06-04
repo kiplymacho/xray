@@ -197,8 +197,8 @@ https://dash.cloudflare.com/profile/api-tokens
 - [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
 - [WhatsApp](https://wa.me/6285751032225)
 
-# _Follow_
+# _Subscribe_
 - Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
 
-# _Subscribe_
+# _Follow_
 - Klik Disini👉[instagram](https://instagram.com/kiplymacho)
