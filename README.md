@@ -6,7 +6,7 @@
 
 <h2 align="center">
 
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-red.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # xray
 - ***Script xray Multi Port 443/80 By SL***
