@@ -191,7 +191,7 @@ https://dash.cloudflare.com/profile/api-tokens
 <h2 align="center">
 
 - Kritik & Saran
-- [![Facebook](https://img.shields.io/badge/Facebook-21%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
 -  [![WhatsApp](https://img.shields.io/badge/WhatsApp-21%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
 # _Subscribe_
