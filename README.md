@@ -5,11 +5,8 @@
 </p>
 
 <h2 align="center">
-Powered By:
 
-kiplymacho
-
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+<img src="https://img.shields.io/badge/PoweredBy:kiplymacho-blue.svg"></h2>
 
 </p> 
 
