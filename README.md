@@ -18,19 +18,7 @@ kiplymacho
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
-</p>
-<div height='45' align="center">
-<h2>Contact me: <br>
-<a href="https://facebook.com/httpcustomkiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<h2>Support me: <br>
-<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
-#
-
+                                       
 # FITUR xray TLS
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
