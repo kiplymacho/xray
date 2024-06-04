@@ -35,8 +35,7 @@
 - VLESS GRPC       : **80**
 
 # Aplikasi VPN (Android Only)
-* Link:
-https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
+* [Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-69%2B-blue.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
 
 
 # OS 
@@ -47,7 +46,7 @@ https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
 
 # Syarat && Bahan Untuk Menggunakan Script Ini
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
-👉[![termux](https://img.shields.io/badge/termux-21%2B-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+👉[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 - Wajib Punya VPS
 - Wajib Punya Akun Cloudflare
