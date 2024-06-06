@@ -123,7 +123,7 @@ mantapxsl.my.id
 EOF
 ```
 
-5. Salin kode di bawah ini dan paste kan ke dalam vps punya kamu
+5. Salin Autoscripts di bawah ini dan paste kan ke dalam vps punya kamu
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 
