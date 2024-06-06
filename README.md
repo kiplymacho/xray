@@ -216,4 +216,7 @@ https://dash.cloudflare.com/profile/api-tokens
 # _Follow_
 - Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
 
- [![Image](Instagram2016_white-(64px).png)] kiplymacho
+<h2 align="center">
+
+ ![Image](Instagram2016_white-(64px).png)]
+ kiplymacho 
