@@ -35,10 +35,10 @@
 - VLESS GRPC       : **80**
 
 # Aplikasi VPN (Android Only)
-<h2 align="center">
-   
- Klik Disini
-        👇👇
+
+
+
+<h2 align="center">   
  [![Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-98-yellow.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
 
 <h2 align="center">
