@@ -38,8 +38,7 @@
 
 <h2 align="center">
 
-[Klik Disini]
-
+- Klik Disini
 <h2 align="center">
 👇👇
 
