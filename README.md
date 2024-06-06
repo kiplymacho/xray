@@ -37,7 +37,7 @@
 # Aplikasi VPN (Android Only)
 <h2 align="center">
    
- ![Klik Dibawah Ini](https://img.shields.io/badge/KlikDibawahini-%-yellow.svg?style=flat)
+ [![Klik Dibawah Ini](https://img.shields.io/badge/KlikDibawahini-%-yellow.svg?style=flat)
    
 <h2 align="center"> 
    
