@@ -37,11 +37,11 @@
 # Aplikasi VPN (Android Only)
 <h2 align="center">
    
- ![Klik Dibawah Ini](https://img.shields.io/badge/KlikDibawahini-2B-yellow.svg?style=flat)
+ ![Klik Dibawah Ini](https://img.shields.io/badge/KlikDibawahini-%-yellow.svg?style=flat)
    
 <h2 align="center"> 
    
- [![Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-98-yellow.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
+ [![Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-100-yellow.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
 
 <h2 align="center">
 <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
