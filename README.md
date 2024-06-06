@@ -127,8 +127,8 @@ EOF
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 ```
-wget https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
-```
+[![AutoScript](https://img.shields.io/badge/AutoScript-7%2B-yellow.svg?style=flat)](http://
+
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=xmenu" />
