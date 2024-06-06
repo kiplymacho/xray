@@ -37,9 +37,7 @@
 # Aplikasi VPN (Android Only)
 
 <h2 align="center">
-
-- Klik Disini
-<h2 align="center">
+Klik Dibawah ini
 👇👇
 
 <h2 align="center"> 
