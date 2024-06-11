@@ -63,7 +63,7 @@ Klik Dibawah ini
 
 <h2 align="center">
 
-- Unduh Aplikasi Termux Nya Disini:
+Unduh Aplikasi Termux Nya Dibawah Ini:
 
 👇👇
   
