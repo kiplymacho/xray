@@ -131,8 +131,6 @@ EOF
 ```
 
 5. Salin Autoscripts di bawah ini dan paste kan ke dalam vps punya kamu
-- maka proses install akan berjalan, jangan keluar dari vps
-- jika keluar dari vps saat lagi proses install,maka akan gagal
 
 <h2 align="center">
 Unduh Script
@@ -140,6 +138,10 @@ Unduh Script
    👇👇
    
 [![AutoScript](https://img.shields.io/badge/AutoScript-7%2B-yellow.svg?style=flat)](https://sfile.mobi/2oZ5z0nBeIz)
+
+<h2 align="left">
+- maka proses install akan berjalan, jangan keluar dari vps
+- jika keluar dari vps saat lagi proses install,maka akan gagal
 
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
 <p align="center">
