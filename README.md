@@ -139,7 +139,7 @@ Unduh Script
    
 [![AutoScript](https://img.shields.io/badge/AutoScript-7%2B-yellow.svg?style=flat)](https://sfile.mobi/2oZ5z0nBeIz)
 
-<h2 align="left">
+#
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 
