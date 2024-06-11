@@ -68,7 +68,7 @@ Klik Dibawah ini
 👇👇
   
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
-
+#
 - Wajib Punya VPS
 - Wajib Punya Akun Cloudflare
 - Wajib Punya Domain Punya Kamu Sendiri
